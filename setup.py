@@ -5,7 +5,7 @@
 NAME = "ZenPacks.PlixerInternational.Scrutinizer"
 VERSION = "1.2"
 AUTHOR = "Thomas Pore"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.PlixerInternational']
 PACKAGES = ['ZenPacks', 'ZenPacks.PlixerInternational', 'ZenPacks.PlixerInternational.Scrutinizer']
 INSTALL_REQUIRES = []
